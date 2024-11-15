@@ -5,7 +5,6 @@
 - 😄 Pronouns: ParilliS
 - ⚡ Fun fact: Everything is for a hobby
 - _________________________________________________
-- _________________________________________________
 - 👋 Hola, soy Sergio Parilli
 - 👀 Me interesa aprender cada día más 
 - 🌱 Actualmente estoy aprendiendo Python
