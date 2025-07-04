@@ -1,9 +1,5 @@
 <table>
   <tr>
-    <th align="left">🇺🇸 English</th>
-    <th align="right">🇪🇸 Español</th>
-  </tr>
-  <tr>
     <td>👋 Hi, I'm Sergio Parilli</td>
     <td align="right">👋 Hola, soy Sergio Parilli</td>
   </tr>
