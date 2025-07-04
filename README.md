@@ -4,7 +4,8 @@
 
 ---
 
-### 👀 I'm interested in learning more every day  
+### 👋 ¡Hi! 
+👀 I'm interested in learning more every day  
 🌱 I'm currently learning Python  
 💞️ I'm looking to collaborate in everything I can  
 😄 Pronouns: ParilliS  
