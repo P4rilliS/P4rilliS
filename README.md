@@ -2,8 +2,6 @@
 
 # 👨‍💻 Sergio Parilli
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Sergio+Parilli;Always+learning+something+new;Building+for+fun%2C+always+💡" alt="Typing SVG" />
-
 ---
 
 ### 👀 I'm interested in learning more every day  
