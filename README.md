@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋<img src="https://raw.githubusercontent.com/P4rilliS/P4rilliS/master/name.svg" alt="Marton Lederer" />👋
+  <img src="https://raw.githubusercontent.com/P4rilliS/P4rilliS/master/name.svg" alt="Marton Lederer" />
 </h1>
 <div align="center">
   <table>
