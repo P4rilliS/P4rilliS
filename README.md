@@ -36,10 +36,9 @@
   <img src="https://img.shields.io/badge/WordPress-1?style=for-the-badge&logo=wordpress&logoColor=%2321759B&labelColor=black&color=%2321759B">
   <img src="https://img.shields.io/badge/Googlesheets-1?style=for-the-badge&logo=googlesheets&logoColor=%2334A853&labelColor=black&color=%2334A853">
 </div>
-<div align="center">
-  <a href="https://github.com/P4rilliS/P4rilliS/master/lenguages.svg">
-</div>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/P4rilliS/P4rilliS/master/lenguajes.svg" alt="Lenguajes" />
+</h1>
 <div align="center"><h1>🔗 Redes Sociales 🔗</h1></div>
   <div align="center">
     <a href="https://facebook.com/slpl46">
@@ -52,3 +51,5 @@
       <img src="https://img.shields.io/badge/GitHub-a?style=for-the-badge&logo=github&color=%23181717&link=https%3A%2F%2Fwww.instagram.com%2Fslpl46" alt="Github Badge">
     </a>
   </div>
+ 
+
