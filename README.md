@@ -28,7 +28,7 @@
 </div>
 <div align="center">
   <tr>
-    <td>![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)</td>
+    ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
   </tr>
 
 
