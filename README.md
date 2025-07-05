@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF2C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" 
   alt="JavaScript Badge"
-  width="130"
+  width="125"
 />
 
   
