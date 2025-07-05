@@ -35,8 +35,11 @@
   <img src="https://img.shields.io/badge/React-1?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB">
   <img src="https://img.shields.io/badge/WordPress-1?style=for-the-badge&logo=wordpress&logoColor=%2321759B&labelColor=black&color=%2321759B">
   <img src="https://img.shields.io/badge/Googlesheets-1?style=for-the-badge&logo=googlesheets&logoColor=%2334A853&labelColor=black&color=%2334A853">
-
 </div>
+<div align="center">
+  <a href="https://github.com/P4rilliS/P4rilliS/master/lenguages.svg">
+</div>
+
 <div align="center"><h1>🔗 Redes Sociales 🔗</h1></div>
   <div align="center">
     <a href="https://facebook.com/slpl46">
