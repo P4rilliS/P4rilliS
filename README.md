@@ -37,6 +37,8 @@
 </p>
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙎𝙝𝙖𝙬
+![Static Badge](https://img.shields.io/badge/css?style=plastic&logo=css3)
+
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
