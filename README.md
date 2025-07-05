@@ -33,7 +33,7 @@
   <img 
   src="https://img.shields.io/badge/-JavaScript-%23F7DF2C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" 
   alt="JavaScript Badge"
-  width="100" height="30"
+  width="100" height="50"
 />
 
   
