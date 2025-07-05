@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF2C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Sheets-green?style=for-the-badge&logo=googlesheets&color=black" alt="Static Badge" >
+  <img src="https://img.shields.io/badge/React-p?style=for-the-badge&logo=react&color=grey" alt="Static Badge" >
+
 
 
   
