@@ -27,6 +27,8 @@
 </div>
 <div align="center"><h1>⚡ Tecnologias ⚡</h1></div>
 <div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-10%25-1?style=plastic&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
+
   <img src="https://img.shields.io/badge/HTML5-1?style=for-the-badge&logo=html5&logoColor=%E34F26&color=%E34F26&labelColor=black" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript-1?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" alt="JavaScript Badge">
