@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF2C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript Badge"/>
-  <a href="https://twitter.com/tu_usuario" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /></a>
+  <a href="https://facebook.com/slpl46"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /></a>
   <img src="https://img.shields.io/badge/Sheets-green?style=for-the-badge&logo=googlesheets&color=black" alt="Static Badge" >
   <img src="https://img.shields.io/badge/React-p?style=for-the-badge&logo=react&color=grey" alt="Static Badge" >
 </div>
