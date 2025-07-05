@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript-a?style=for-the-badge&logo=javascript&color=%23F7DF1E" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-b?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23b9ac08">
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Sheets-green?style=for-the-badge&logo=googlesheets&color=black" alt="Sheets Badge" >
   <img src="https://img.shields.io/badge/React-p?style=for-the-badge&logo=react&color=grey" alt="React Badge" >
