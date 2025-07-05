@@ -27,7 +27,8 @@
   </table>
 </div>
 <div align="center">
-    ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
 
 
 
