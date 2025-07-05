@@ -4,8 +4,8 @@
 <div align="center">
   <table>
     <tr>
-      <td>👋 Hi, I'm Sergio Parilli</td>
-      <td align="right">👋 Hola, soy Sergio Parilli</td>
+      <td>👋I'm Sergio Parilli</td>
+      <td align="right">👋 soy Sergio Parilli</td>
     </tr>
     <tr>
       <td>👀 I'm interested in learning more every day</td>
