@@ -33,11 +33,20 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Sheets-green?style=for-the-badge&logo=googlesheets&color=black" alt="Static Badge" >
   <img src="https://img.shields.io/badge/React-p?style=for-the-badge&logo=react&color=grey" alt="Static Badge" >
+</div>
+<div align="center"><h1>🔗 Redes Sociales 🔗</h1></div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Facebook-a?style=for-the-badge&logo=facebook&color=0866FF&link=https%3A%2F%2Fwww.facebook.com%2Fslpl46" alt="Static Badge" >
+    <img src="https://img.shields.io/badge/Instagram-a?style=for-the-badge&logo=instagram&color=%23FF0069&link=https%3A%2F%2Fwww.instagram.com%2Fslpl46" alt="Static Badge" >
+
+
+  </div>
+  
+  
 
 
 
   
-</div>
 
     <p align="center">
 
