@@ -42,13 +42,13 @@
 <div align="center"><h1>🔗 Redes Sociales 🔗</h1></div>
   <div align="center">
     <a href="https://facebook.com/slpl46">
-      <img src="https://img.shields.io/badge/Facebook-a?style=for-the-badge&logo=facebook&color=0866FF" alt="Facebok Badge" >
+      <img src="https://img.shields.io/badge/Facebook-1?style=for-the-badge&logo=facebook&logoColor=%230866FF&labelColor=black&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fslpl46">
     </a>
     <a href="https://instagram.com/slpl46">
-      <img src="https://img.shields.io/badge/Instagram-a?style=for-the-badge&logo=instagram&color=%23FF0069" alt="Instagram Badge" >
+      <img src="https://img.shields.io/badge/instagram-1?style=for-the-badge&logo=instagram&logoColor=%23FF0069&labelColor=black&color=%23FF0069&link=https%3A%2F%2Fwww.instagram.com%2Fslpl46">
     </a>
     <a href="https://github.com/P4rilliS">
-      <img src="https://img.shields.io/badge/GitHub-a?style=for-the-badge&logo=github&color=%23181717&link=https%3A%2F%2Fwww.instagram.com%2Fslpl46" alt="Github Badge">
+      <img src="https://img.shields.io/badge/GitHub-1?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=black&color=%23181717">
     </a>
   </div>
  
