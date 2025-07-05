@@ -12,8 +12,8 @@
       <td align="right">👀 Me interesa aprender cada día más</td>
     </tr>
     <tr>
-      <td>🌱 I'm currently learning Python</td>
-      <td align="right">🌱 Actualmente estoy aprendiendo Python</td>
+      <td>🌱 I'm currently learning WordPress</td>
+      <td align="right">🌱 Actualmente estoy aprendiendo WordPress</td>
     </tr>
     <tr>
       <td>💞️ I'm looking to collaborate in everything I can</td>
