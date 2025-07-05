@@ -1,4 +1,4 @@
-### Bienvenido
+<p align="center">## Bienvenido</p>
 <div align="center">
   <table>
     <tr>
