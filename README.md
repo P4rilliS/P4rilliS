@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bienvenido</h1>
+  <h1>😄Bienvenido😄</h1>
 </div>
 <div align="center">
   <table>
@@ -18,10 +18,6 @@
     <tr>
       <td>💞️ I'm looking to collaborate in everything I can</td>
       <td align="right">💞️ Busco colaborar en todo lo que pueda</td>
-    </tr>
-    <tr>
-      <td>😄 Pronouns: ParilliS</td>
-      <td align="right">😄 Pronombres: ParilliS</td>
     </tr>
     <tr>
       <td>⚡ Fun fact: Everything is for a hobby</td>
