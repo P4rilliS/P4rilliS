@@ -31,11 +31,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript-1?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E">
   <img src="https://img.shields.io/badge/Python-1?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black&color=%233776AB">
-  <img src="https://img.shields.io/badge/GoogleSheets-1?style=for-the-badge&logo=googlesheets&logoColor=%34A853&labelColor=black&color=%34A853">
-
-  <img src="https://img.shields.io/badge/Sheets-green?style=for-the-badge&logo=googlesheets&color=black" alt="Sheets Badge" >
-  <img src="https://img.shields.io/badge/React-p?style=for-the-badge&logo=react&color=grey" alt="React Badge" >
-  <img src="https://img.shields.io/badge/WordPress-a?style=for-the-badge&logo=wordpress&color=%2321759B" alt="WordPress Badge">
+  <img src="https://img.shields.io/badge/Googlesheets-1?style=for-the-badge&logo=googlesheets&logoColor=%2334A853&labelColor=black&color=%2334A853">
+  <img src="https://img.shields.io/badge/React-1?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB">
+  <img src="https://img.shields.io/badge/WordPress-1?style=for-the-badge&logo=wordpress&logoColor=%2321759B&labelColor=black&color=%2321759B">
 
 </div>
 <div align="center"><h1>🔗 Redes Sociales 🔗</h1></div>
