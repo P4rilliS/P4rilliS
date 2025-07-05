@@ -1,11 +1,11 @@
-<div align="center">
-  <h1>😄Bienvenido😄</h1>
-</div>
+<h1 align="center">
+  👋<img src="https://raw.githubusercontent.com/P4rilliS/P4rilliS/master/name.svg" alt="Marton Lederer" />👋
+</h1>
 <div align="center">
   <table>
     <tr>
-      <td>👋I'm Sergio Parilli</td>
-      <td align="right">👋 soy Sergio Parilli</td>
+      <td>😄Welcome!😄</td>
+      <td align="right">😄Bienvenido!😄</td>
     </tr>
     <tr>
       <td>👀 I'm interested in learning more every day</td>
@@ -27,16 +27,12 @@
 </div>
 <div align="center"><h1>⚡ Tecnologias ⚡</h1></div>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-30%25-1?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-1?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
-
-
-  <img src="https://img.shields.io/badge/HTML5-1?style=for-the-badge&logo=html5&logoColor=%E34F26&color=%E34F26&labelColor=black" alt="HTML5 Badge" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-1?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-1?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/JavaScript-1?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Python-1?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black&color=%233776AB">
+  <img src="https://img.shields.io/badge/GoogleSheets-1?style=for-the-badge&logo=googlesheets&logoColor=%34A853&labelColor=black&color=%34A853">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Sheets-green?style=for-the-badge&logo=googlesheets&color=black" alt="Sheets Badge" >
   <img src="https://img.shields.io/badge/React-p?style=for-the-badge&logo=react&color=grey" alt="React Badge" >
   <img src="https://img.shields.io/badge/WordPress-a?style=for-the-badge&logo=wordpress&color=%2321759B" alt="WordPress Badge">
